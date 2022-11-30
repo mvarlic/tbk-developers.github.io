@@ -2,7 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const organizationName = "mvarlic";
-const projectName = "mvarlic.github.io";
+const projectName = "tbk-developers.github.io";
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
